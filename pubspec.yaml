@@ -41,6 +41,12 @@ dependencies:
   firebase_auth: ^4.4.2
   flutter_excel: ^1.0.1
   cloud_firestore: ^4.7.1
+  fluttertoast: ^8.2.2
+  roundcheckbox: ^2.0.5
+  group_button: ^5.2.2
+
+
+
 
 dev_dependencies:
   flutter_test:

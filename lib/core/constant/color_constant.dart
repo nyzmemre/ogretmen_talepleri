@@ -11,6 +11,7 @@ class ColorConstant{
   static const Color scaffoldBackground=Color(0xFFF3F5F8);
   static const Color primaryBlue=Color(0xFF52B6DF);
   static const Color greyLight=Color(0xFFF1F5F9);
+  static const Color grey=Colors.grey;
   static const Color appGreen=Color(0xFF186351);
 
 
