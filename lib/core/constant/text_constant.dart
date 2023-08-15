@@ -14,6 +14,7 @@ class TextConstant {
   static const String sorunListDocID='EhWft9kHYu1sEPsubRYH';
   static const String sorunListFieldName='sorunList';
   static const String selectSorunText='Lütfen mesajınızın içeriği ile ilgili başlığı seçiniz. Eğer listede yoksa Öğretmen Ailesi instagram hesabından bize ulaşınız.';
-  static const String selectMessageTitle='Mesajınızın konusunu seçiniz. (Birden fazla seçebilirsiniz!)';
+  static const String selectMessageTitle='Konuyu Seçmek İçin Tıklayınız. (Birden fazla seçebilirsiniz!)';
+  static const String messageSend='Mesaj Gönderildi';
 
 }

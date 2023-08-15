@@ -14,7 +14,8 @@ class MessageViewModel {
       firebaseFirestore.collection('message').doc(firebaseAuth.currentUser!.uid).set(MessageModel(
         userID: firebaseAuth.currentUser!.uid,
         message: '$nameSurname, $message',
-          messageTitle: messageTitle
+          messageTitle: messageTitle,
+        dateTime: DateTime.now()
       ).toMap());
     } on FirebaseAuthException catch (e) {
       await MyToastMessageWidget().toast(

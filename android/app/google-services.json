@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "354626426873",
+    "project_id": "ogretmentalepleri-3b375",
+    "storage_bucket": "ogretmentalepleri-3b375.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354626426873:android:73b823487316548f548f28",
+        "android_client_info": {
+          "package_name": "com.ogretmentalepleri.ogretmen_talepleri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354626426873-39ub4u3d1tc1rl179t0212kc895m78bo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEFaZ7aU3S1Z-xpwzytbdS5tr0ogjzBUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354626426873-39ub4u3d1tc1rl179t0212kc895m78bo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "354626426873-7htsdfp66lltrihntbm38cciliuct15q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ogretmentalepleri.ogretmenTalepleri.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354626426873:android:ef79585d890980b7548f28",
+        "android_client_info": {
+          "package_name": "com.ogretmentalepleri.ogretmentalepleri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354626426873-39ub4u3d1tc1rl179t0212kc895m78bo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEFaZ7aU3S1Z-xpwzytbdS5tr0ogjzBUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354626426873-39ub4u3d1tc1rl179t0212kc895m78bo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "354626426873-7htsdfp66lltrihntbm38cciliuct15q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ogretmentalepleri.ogretmenTalepleri.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
